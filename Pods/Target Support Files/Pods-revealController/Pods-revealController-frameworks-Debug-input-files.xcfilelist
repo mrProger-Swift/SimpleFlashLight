@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-revealController/Pods-revealController-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ChameleonFramework/ChameleonFramework.framework
+${BUILT_PRODUCTS_DIR}/PKRevealController/PKRevealController.framework
+${BUILT_PRODUCTS_DIR}/Spring/Spring.framework

@@ -1,0 +1,34 @@
+PODS:
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - PKRevealController (2.0.6)
+  - Spring (1.0.6)
+
+DEPENDENCIES:
+  - ChameleonFramework/Swift
+  - PKRevealController
+  - Spring (from `https://github.com/MengTo/Spring.git`)
+
+SPEC REPOS:
+  trunk:
+    - ChameleonFramework
+    - PKRevealController
+
+EXTERNAL SOURCES:
+  Spring:
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 50d92a5b9e08848387ae95bf44c6ad20834f7083
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  PKRevealController: ffb45a16f5a5032ad90a3d16e5cbb0d8e035bd58
+  Spring: 3d113f14575ef79aec9c5f906dfa4f5001c03254
+
+PODFILE CHECKSUM: 8607c572a0d9824f84c9af3587da7720bae2dcc9
+
+COCOAPODS: 1.10.0
